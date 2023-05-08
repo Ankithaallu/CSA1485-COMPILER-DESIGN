@@ -1,0 +1,39 @@
+1.insert
+2.display
+3.search
+4.modify
+5.exit
+1
+enter the labeld
+enter the address400
+
+1.insert
+2.display
+3.search
+4.modify
+5.exit
+2
+d       400
+
+1.insert
+2.display
+3.search
+4.modify
+5.exit
+3
+enter the labeld
+label is found
+1.insert
+2.display
+3.search
+4.modify
+5.exit
+4
+enter the labe:200
+no such symbol
+1.insert
+2.display
+3.search
+4.modify
+5.exit
+5
